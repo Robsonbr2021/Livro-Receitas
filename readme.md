@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 <h1>Escondidinho</h1>
+=======
+#Escondidinho#
 
 <b>Bater no liquidificador<b>
 <i>A mandioca cozida com um pouco da água de cozimento e um vidro de leite de coco fazendo um creme</i>
